@@ -10,7 +10,6 @@ Hallo👋 ! Ik ben RubenGaming en al 1,5 jaar Developer, lees hieronder meer.
 - 💻 CSS
 - 💻 JS
 - 💻 PHP
-- 💻 Lua ( leren )
 
 ### 📫 Contact
 - 💠 Discord: RubenGaming
