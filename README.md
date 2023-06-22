@@ -13,7 +13,7 @@ Hallo👋 ! Ik ben RubenGaming en al 1,5 jaar Developer, lees hieronder meer.
 - 💻 Lua ( leren )
 
 ### 📫 Contact
-- 💠 Discord: RubenGaming#4471
+- 💠 Discord: RubenGaming
 - 📩 ruben.sites.zakelijk@gmail.com
 - [Instagram](https://instagram.com/rubengaming_1)
 - [Discord Server](https://discord.gg/NfePsJwrGf)
